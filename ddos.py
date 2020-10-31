@@ -22,7 +22,7 @@ os.system("figlet DDos Attack")
 print
 print "Author   : Evan01"
 print "You Tube : https://www.youtube.com/channel/UCkpaIqn_gz4xIT9PkASiRdg"
-print "github   : https://github.com/bythelink89/DDOS-ATACK-KALI-"
+print "github   : https://github.com/bythelink89/"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
