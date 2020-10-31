@@ -2,6 +2,14 @@
 Este scrip echo en python crea un ataque ddos, lo unico qu enecesita hacer es ingresar la ip de la victima(no red local) y esperar.
 Se instala asi
 
+sudo apt-get install python
+
+
+
+
+
+
+
 sudo apt-get install git
 
 
