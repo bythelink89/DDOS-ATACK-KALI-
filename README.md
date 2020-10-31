@@ -47,3 +47,61 @@ python ddos.py
 
 
 y despues ahi se iniciara y pondremos nuestros datos.
+
+
+
+
+
+
+
+En Termux se instala asi 
+
+
+
+pkg update 
+
+
+
+
+
+pkg upgrade
+
+
+
+
+
+pkg install git
+
+
+
+
+
+
+
+pkg install python
+
+
+
+
+
+
+
+git clone https://github.com/bythelink89/DDOS-ATACK-KALI-
+
+
+
+
+
+
+
+
+
+cd DDOS-ATACK-KALI-
+
+
+
+
+
+
+
+python ddos.py
