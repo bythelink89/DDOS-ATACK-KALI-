@@ -20,7 +20,22 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDOS ATACK KALI LINUX")
 print
-print "Author   : Evan01"
+print "                                     "
+print "┌─┐┬─┐┌─┐┌─┐┌┬┐┌─┐  ┌─┐┌─┐┬─┐"
+print "│  ├┬┘├┤ ├─┤ │││ │  ├─┘│ │├┬┘"
+print "└─┘┴└─└─┘┴ ┴─┴┘└─┘  ┴  └─┘┴└─"
+print "                                    "
+print "▓█████ ██▒   █▓ ▄▄▄       ███▄    █ "
+print "▓█   ▀▓██░   █▒▒████▄     ██ ▀█   █ "
+print "▒███   ▓██  █▒░▒██  ▀█▄  ▓██  ▀█ ██▒"
+print "▒▓█  ▄  ▒██ █░░░██▄▄▄▄██ ▓██▒  ▐▌██▒"
+print "░▒████▒  ▒▀█░   ▓█   ▓██▒▒██░   ▓██░"
+print "░░ ▒░ ░  ░ ▐░   ▒▒   ▓▒█░░ ▒░   ▒ ▒ "
+print " ░ ░  ░  ░ ░░    ▒   ▒▒ ░░ ░░   ░ ▒░"
+print "   ░       ░░    ░   ▒      ░   ░ ░ "
+print "   ░  ░     ░        ░  ░         ░ "
+print "           ░                        "
+print "                                    "
 print "You Tube : https://www.youtube.com/channel/UCkpaIqn_gz4xIT9PkASiRdg"
 print "github   : https://github.com/bythelink89/"
 print
