@@ -1,7 +1,7 @@
 # DDOS-ATACK-KALI-
 
 ![alt text](images/test1.png)
-![alt text](images/test2.png)
+![alt text](images/test.png)
 
 # TUTORIAL DE USO 
 Enlace del video con tutorial: https://youtu.be/_fXFPljwlHY
