@@ -4,8 +4,7 @@
 ![alt text](images/test2.png)
 
 # TUTORIAL DE USO 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_fXFPljwlHY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Enlace del video con tutorial: https://youtu.be/_fXFPljwlHY
 
 
 
