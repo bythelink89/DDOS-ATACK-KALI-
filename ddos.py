@@ -20,21 +20,21 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDOS ATACK KALI LINUX")
 pri
-print "CREADO POR                          "
-print "                                    "
-print "▓█████ ██▒   █▓ ▄▄▄       ███▄    █ "
-print "▓█   ▀▓██░   █▒▒████▄     ██ ▀█   █ "
-print "▒███   ▓██  █▒░▒██  ▀█▄  ▓██  ▀█ ██▒"
-print "▒▓█  ▄  ▒██ █░░░██▄▄▄▄██ ▓██▒  ▐▌██▒"
-print "░▒████▒  ▒▀█░   ▓█   ▓██▒▒██░   ▓██░"
-print "░░ ▒░ ░  ░ ▐░   ▒▒   ▓▒█░░ ▒░   ▒ ▒ "
-print " ░ ░  ░  ░ ░░    ▒   ▒▒ ░░ ░░   ░ ▒░"
-print "   ░       ░░    ░   ▒      ░   ░ ░ "
-print "   ░  ░     ░        ░  ░         ░ "
-print "           ░                        "
-print "                                    "
-print "You Tube : https://www.youtube.com/channel/UCkpaIqn_gz4xIT9PkASiRdg"
-print "github   : https://github.com/bythelink89/"
+print ("CREADO POR                          ")
+print ("                                    ")
+print ("▓█████ ██▒   █▓ ▄▄▄       ███▄    █ ")
+print ("▓█   ▀▓██░   █▒▒████▄     ██ ▀█   █ ")
+print ("▒███   ▓██  █▒░▒██  ▀█▄  ▓██  ▀█ ██▒")
+print ("▒▓█  ▄  ▒██ █░░░██▄▄▄▄██ ▓██▒  ▐▌██▒")
+print ("░▒████▒  ▒▀█░   ▓█   ▓██▒▒██░   ▓██░")
+print ("░░ ▒░ ░  ░ ▐░   ▒▒   ▓▒█░░ ▒░   ▒ ▒ ")
+print (" ░ ░  ░  ░ ░░    ▒   ▒▒ ░░ ░░   ░ ▒░")
+print ("   ░       ░░    ░   ▒      ░   ░ ░ ")
+print ("   ░  ░     ░        ░  ░         ░ ")
+print ("           ░                        ")
+print ("                                    ")
+print ("You Tube : https://www.youtube.com/channel/UCkpaIqn_gz4xIT9PkASiRdg")
+print ("github   : https://github.com/bythelink89/")
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
