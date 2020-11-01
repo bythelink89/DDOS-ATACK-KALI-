@@ -19,7 +19,7 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDOS ATACK KALI LINUX")
-pri
+print ("                                    ") 
 print ("CREADO POR                          ")
 print ("                                    ")
 print ("▓█████ ██▒   █▓ ▄▄▄       ███▄    █ ")
