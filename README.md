@@ -1,4 +1,15 @@
 # DDOS-ATACK-KALI-
+
+![alt text](images/test1.png)
+![alt text](images/test2.png)
+
+
+
+
+
+
+
+
 Este scrip echo en python crea un ataque ddos, lo unico qu enecesita hacer es ingresar la ip de la victima(no red local) y esperar.
 Se instala asi
 
