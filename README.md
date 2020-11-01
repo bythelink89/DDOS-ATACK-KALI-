@@ -33,7 +33,7 @@ cd DDOS-ATACK-KALI-
 
 
 
-python3 ddos.py 
+python ddos.py 
 
 
 
